@@ -1,0 +1,16 @@
+.box {
+  width: 80px;
+  height: 80px;
+  background: transparent;
+  color: rgb(135, 228, 126);
+  border: 3px solid black;
+  text-align: center;
+  margin-top: 42px;
+  margin-left: 80px;
+  float: left;
+  overflow: hidden;
+}
+
+body {
+  background-image: url(lyric_opera_of_chicago_1600x850.jpg);
+}
